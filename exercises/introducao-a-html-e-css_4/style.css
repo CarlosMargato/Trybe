@@ -1,15 +1,16 @@
 header h1 {
     background-color: #0a043c;
     color: #cccccc;
+    margin-right: auto;
 }
 
 nav {
-    background-color: #0a048c;
+    background-color: #19456b;
 }
 
 nav ul li {
     list-style: none;
     display: inline;
-    background-color: #0a048c;
+    background-color: #19456b;
     color: #cccccc;
 }

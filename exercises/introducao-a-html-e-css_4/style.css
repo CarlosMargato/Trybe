@@ -31,20 +31,35 @@ nav li {
     margin-left: 5px;
     font-size: 25px;
     vertical-align: middle;
+    text-align: left;
 }
 
 h2 {
     background-color: #0a043c;
     color: #cccccc;
-    font-size: 150%;
+    font-size: 250%;
     padding: 10px;
     border-radius: 20px;
     text-align: center;
 }
 
+h3 {
+    font-size: 200%;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+main {
+    text-align: center;
+}
+
 .science {
     margin-left: 5px;
-    margin-right: 45%;
+    margin-right: 20%;
+    font-size: 150%;
+    text-align: left;
 }
 
 h4 {
@@ -68,7 +83,7 @@ ul li {
 }
 
 .abstract {
-    margin-right: 45%;
+    margin-right: 20%;
     display: inline-block;
 }
 
@@ -105,4 +120,15 @@ span {
 p {
     font-size: 180%;
     margin: 10px;
+}
+
+.botaovoltar {
+    font-size: 100%;
+    text-align: center;
+    margin-left: 93%;
+    margin-top: 12%;
+    padding: auto;
+    border-radius: 5px;
+    background-color: #19456b;
+    color: #cccccc;
 }

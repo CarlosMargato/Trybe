@@ -16,6 +16,8 @@ h1 {
     margin-left: 2px;
     margin-top: 0px;
     margin-bottom: 0px;
+    padding-top: 25px;
+    text-align: center;
 }
 
 nav ul {
@@ -34,9 +36,15 @@ nav li {
 h2 {
     background-color: #0a043c;
     color: #cccccc;
-    margin-right: 5px;
-    margin-left: 2px;
+    font-size: 150%;
+    padding: 10px;
     border-radius: 20px;
+    text-align: center;
+}
+
+.science {
+    margin-left: 5px;
+    margin-right: 45%;
 }
 
 h4 {
@@ -45,10 +53,7 @@ h4 {
     padding: 10px;
     padding-left: 10px;
     border-radius: 20px;
-}
-
-.science {
-    margin-left: 5px;
+    font-size: 150%;
 }
 
 ul li {
@@ -56,8 +61,8 @@ ul li {
     margin-top: 5px;
 }
 
-img {
-    width: 20%;
+.firstphoto {
+    width: 40%;
     float: left;
     margin-right: 10px;
 }
@@ -72,13 +77,32 @@ p {
 }
 
 .lft {
+    width: 30%;
     float: left;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .rgt {
+    width: 30%;
     float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+iframe {
+    width: 50%;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 4px;
+    margin-right: 10px;
 }
 
 span {
     font-weight: 800
+}
+
+p {
+    font-size: 180%;
+    margin: 10px;
 }

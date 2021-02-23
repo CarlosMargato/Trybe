@@ -26,7 +26,7 @@ nav ul {
 nav li {
     display: inline-block;
     color: #cccccc;
-    margin-left: 2px;
+    margin-left: 5px;
     font-size: 25px;
     vertical-align: middle;
 }
@@ -44,7 +44,6 @@ h4 {
     color: #cccccc;
     padding: 10px;
     padding-left: 10px;
-    padding-right: 100%;
     border-radius: 20px;
 }
 
@@ -52,18 +51,34 @@ h4 {
     margin-left: 5px;
 }
 
-.science ul li {
+ul li {
     list-style: none;
+    margin-top: 5px;
 }
 
 img {
     width: 20%;
+    float: left;
+    margin-right: 10px;
 }
 
 .abstract {
     margin-right: 45%;
+    display: inline-block;
 }
 
 p {
     text-align: justify;
+}
+
+.lft {
+    float: left;
+}
+
+.rgt {
+    float: right;
+}
+
+span {
+    font-weight: 800
 }

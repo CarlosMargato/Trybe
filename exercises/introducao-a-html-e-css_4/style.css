@@ -1,0 +1,15 @@
+header h1 {
+    background-color: #0a043c;
+    color: #cccccc;
+}
+
+nav {
+    background-color: #0a048c;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline;
+    background-color: #0a048c;
+    color: #cccccc;
+}

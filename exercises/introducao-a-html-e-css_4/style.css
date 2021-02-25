@@ -1,0 +1,147 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header,
+h1 {
+    background-color: #0a043c;
+    color: #cccccc;
+    font-size: 60px;
+    margin-left: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 25px;
+    text-align: center;
+}
+
+nav ul {
+    background-color: #19456b;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    color: #cccccc;
+    margin-left: 5px;
+    font-size: 25px;
+    vertical-align: middle;
+    text-align: left;
+}
+
+h2 {
+    background-color: #0a043c;
+    color: #cccccc;
+    font-size: 250%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 200%;
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 800;
+    font-style: oblique;
+}
+
+main {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.science {
+    margin-left: 5px;
+    font-size: 150%;
+    text-align: left;
+}
+
+h4 {
+    background-color: #19456b;
+    color: #cccccc;
+    text-align: left;
+    padding: 10px;
+    padding-left: 10px;
+    border-radius: 20px;
+    font-size: 150%;
+}
+
+ul li {
+    list-style: none;
+    margin-top: 5px;
+}
+
+.firstphoto {
+    width: 40%;
+    float: left;
+    margin-right: 10px;
+}
+
+.abstract {
+    display: inline-block;
+}
+
+p {
+    text-align: justify;
+}
+
+.lft {
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.rgt {
+    width: 30%;
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cntr {
+    width: 20%;
+}
+
+iframe {
+    width: 50%;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 4px;
+    margin-right: 10px;
+}
+
+span {
+    font-weight: 800
+}
+
+p {
+    font-size: 180%;
+    margin: 10px;
+}
+
+.botaovoltar {
+    font-size: 130%;
+    text-align: center;
+    margin-left: 93%;
+    padding: auto;
+    border-radius: 5px;
+    background-color: #19456b;
+    color: #cccccc;
+}
+
+th {
+    margin-left: 100%;
+}
+
+#editor {
+    text-align: center;
+    font-size: 100%;
+}
